@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+}
+
+canvas {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
